@@ -6,6 +6,11 @@
 
 - ⚡ I love studying Computer Science and how technology can benefit everyone
 
+```python
+import pandas as pd
+
+data = pd.read_csv('data.csv')
+```
 <!--
 **RodrigoaLopess/RodrigoaLopess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
