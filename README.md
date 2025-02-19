@@ -1,5 +1,6 @@
 ## Hi there my name is Rodrigo Lopes
 
+- 🔭 I’m currently working at Excellent tigers as a Data Analyst working with data from multiple sources, using Excel, Vba and Python in the ETL process
 <!--
 **RodrigoaLopess/RodrigoaLopess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
